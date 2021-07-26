@@ -63,3 +63,18 @@
 - 390 - 7 **Wild Huntsmen**, Shield, Sylvan Lance, Champion
 - 320 - 6 **Wild Huntsmen**, Sylvan Blades, Champion
 - 295 - 5 **Briar Maidens**, Champion
+
+## Sascha
+
+### Kingdom of Equitaine: 4498
+- 545 - **Duke**, Pegasus, Shield (Fortress of Faith), Lance (Supernatural Dexterity), Basalt Infusion, Potion of Strength, Might
+- 505 - **Duke**, General, Barded Warhorse, Shield, Bastard Sword (King Slayer), Crusader's Salvation, Valour, Questing Oath and Bastard Sword
+- 465 - **Damsel**, Barded Warhorse, Wizard Master, Druidism, Binding Scroll, Crystal of the Valiant Charge
+- 280 - **Paladin**, Barded Warhorse, Shield, Battle Standard Bearer (Aether Icon, Aether Icon), Lance, Alchemist's Alloy, Lucky Charm
+- 818 - 15 **Knights of the Realm**, Standard Bearer (Banner of the Last Charge), Musician, Champion
+- 320 - 6 **Knights of the Realm**, Standard Bearer (Flaming Standard), Musician, Champion
+- 630 - 12 **Knights of the Quest**, Standard Bearer (Stalker's Standard), Musician, Champion
+- 290 - 6 **Knights of the Quest**, Standard Bearer, Musician, Champion
+- 375 - **The Green Knight**
+- 135 - 5 **Yeoman Outriders**, Shield, Bow
+- 135 - 5 **Yeoman Outriders**, Shield, Bow
