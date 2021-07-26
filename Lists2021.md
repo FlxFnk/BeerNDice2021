@@ -32,3 +32,18 @@
 - 80 - **Scrap Wagon**
 - 345 - **Giant**, Giant Club, Big Brother
 - 345 - **Giant**, Giant Club, Big Brother
+
+## Lars
+
+### Warriors of the Dark Gods: 4497
+- 830 - **Exalted Herald**, General
+- 540 - **Chosen Lord**, Karkadan, Trophy Rack (Aether Icon), Shield, Paired Weapons, Lance, Great Weapon, Halberd, Talisman of Shielding, Greed, Entropic Aura
+- 460 - **Sorcerer**, Dark Chariot, Wizard Adept, Alchemy, Plate Armour (Basalt Infusion), Paired Weapons (Hero's Heart), Binding Scroll
+- 438 - 12 **Warriors**, Paired Weapons, Great Weapon, Halberd, Greed, Standard Bearer (Banner of the Relentless Company), Musician, Champion
+- 226 - 8 **Barbarian Horsemen**, Light Lance, Shield, Musician
+- 119 - 8 **Warhounds**
+- 119 - 8 **Warhounds**
+- 720 - 5 **Chosen Knights**, Paired Weapons, Great Weapon, Halberd, Greed, Standard Bearer (Flaming Standard), Musician, Champion
+- 680 - 5 **Feldraks**, Halberd, Standard Bearer (Banner of Discipline), Musician, Champion
+- 365 - **Chosen Chariot**, Paired Weapons, Great Weapon, Halberd, Greed
+
