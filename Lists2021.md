@@ -47,3 +47,19 @@
 - 680 - 5 **Feldraks**, Halberd, Standard Bearer (Banner of Discipline), Musician, Champion
 - 365 - **Chosen Chariot**, Paired Weapons, Great Weapon, Halberd, Greed
 
+## Sepp
+
+### Sylvan Elves: 4498
+- 530 - **Forest Prince**, General, Eagle King, Light Armour (Destiny's Call), Sylvan Longbow, Sylvan Blades (Titanic Might), Horn of the Wild Hunt
+- 340 - **Thicket Shepherd**, Battle Standard Bearer, Oaken Crown
+- 290 - **Druid**, Wizard Adept, Cosmology, Sylvan Longbow, Book of Arcane Mastery
+- 285 - **Dryad Ancient**, Wizard (Wizard Adept, Divination), Scarred Bark
+- 405 - 23 **Dryads**, Scoring, Champion
+- 313 - 13 **Sylvan Archers**, Musician
+- 205 - 5 **Heath Riders**, Heath Hunters
+- 205 - 5 **Heath Riders**, Heath Hunters
+- 490 - 5 **Thicket Beasts**, Champion
+- 430 - **Treefather**
+- 390 - 7 **Wild Huntsmen**, Shield, Sylvan Lance, Champion
+- 320 - 6 **Wild Huntsmen**, Sylvan Blades, Champion
+- 295 - 5 **Briar Maidens**, Champion
