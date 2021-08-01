@@ -78,3 +78,23 @@
 - 375 - **The Green Knight**
 - 135 - 5 **Yeoman Outriders**, Shield, Bow
 - 135 - 5 **Yeoman Outriders**, Shield, Bow
+
+## Markus Fritsche
+
+### Dwarven Holds: 4497 
+335 - **Runic Smith**, General, Shield, 2x Rune of Iron, Rune of the Forge, Rune of Devouring, Rune of Harnessing, Rune of Mining
+315 - **Thane, Shield**, Battle Standard Bearer (Aether Icon, Legion Standard), Guild-Crafted Handgun, 2x Rune of Iron,  Hand Weapon (2x Rune of Lightning, Rune of Returning)
+478 - 34 **Clan Warriors**, Shield, Standard Bearer, Musician, Champion
+440 - 30 **Clan Warriors**, Great Weapon, Standard Bearer (Aether Icon), Musician, Champion
+250 - 10 **Clan Marksmen**, Shield, Guild-Crafted Handgun, Musician
+499 - 24 **Deep Watch**, Standard Bearer (Aether Icon), Musician, Champion
+435 - 20 **Seekers**, Musician
+420 - 4 **Hold Guardians**, Standard Bearer (Runic Standard of the Hold), Musician
+130 - **Vengeance Seeker**
+185 - **Steam Copters**, Shrapnel Grenades
+185 - **Steam Copters**, Shrapnel Grenades
+265 - **Field Artillery**, Dwarf Cannon (Rune Crafted)
+140 - **Field Artillery**, Dwarf Ballista (Rune Crafted)
+140 - **Field Artillery**, Dwarf Ballista (Rune Crafted)
+140 - **Field Artillery**, Dwarf Ballista (Rune Crafted)
+140 - **Field Artillery**, Dwarf Ballista (Rune Crafted)
