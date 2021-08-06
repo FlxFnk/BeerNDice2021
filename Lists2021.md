@@ -98,3 +98,22 @@
 - 140 - **Field Artillery**, Dwarf Ballista (Rune Crafted)
 - 140 - **Field Artillery**, Dwarf Ballista (Rune Crafted)
 - 140 - **Field Artillery**, Dwarf Ballista (Rune Crafted)
+
+## Marc
+
+### Ogre Khans: 4496
+
+- 575 - **Mammoth Hunter**, Light Armour, Paired Weapons, Ogre Crossbow, Obsidian Rock, Rock Aurochs
+- 330 - **Mammoth Hunter**, Light Armour (Destiny's Call), Paired Weapons, Hunting Spear, Leader of the Pack
+- 510 - **Shaman**, General, Wizard Master, Thaumaturgy, Light Armour, Iron Fist, Magical Heirloom, Rampager's Chain
+- 360 - **Khan**, Battle Standard Bearer (Banner of Discipline), Heavy Armour, Iron Fist, Lygur's Tongue
+- 790 - 10 **Bruisers**, Standard Bearer (Pennant of the Great Grass Sky), Musician, Champion
+- 171 - 21 **Scraplings**, Shield, Musician, Scrapling Foreman (Halberd)
+- 165 - 3 **Tribesmen**, Musician
+- 520 - 4 **Tusker Cavalry**, Paired Weapons, Musician, Champion
+- 80 - **Sabretooth Tigers**
+- 80 - 5 **Scrapling Trappers**
+- 305 - **Slave Giant**, Great Weapon
+- 305 - **Slave Giant**, Great Weapon
+- 305 - **Slave Giant**, Great Weapon
+
