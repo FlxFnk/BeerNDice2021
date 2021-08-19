@@ -117,3 +117,18 @@
 - 305 - **Slave Giant**, Great Weapon
 - 305 - **Slave Giant**, Great Weapon
 
+## Kai
+
+### Vampire Covenant: 4496
+- 890 - **Vampire Count**, General (The Dead Arise), Independant (Arcane Knowledge), Wizard Master, Occultism, Light Armour (Destiny's Call), Halberd (King Slayer), Night's Crown, Obsidian Rock
+- 470 - **Vampire Courtier**, Independant (Monster Hunter), Monstrous Revenant, Wizard (Wizard Apprentice, Evocation), Shield, Heavy Armour (Death Cheater), Halberd
+- 255 - **Necromancer**, Wizard Adept, Evocation, Talisman of the Void
+- 551 - 36 **Ghouls**, Champion
+- 230 - 25 **Skeletons**, Standard Bearer (Legion Standard), Musician, Champion
+- 135 - 20 **Zombies**, Musician
+- 465 - **Dark Coach**
+- 300 - **Court of the Damned**
+- 100 - 2 **Great Bats**
+- 100 - 2 **Great Bats**
+- 500 - **Shrieking Horror**
+- 500 - 3 **Winged Reapers**, Paired Weapons
