@@ -132,3 +132,21 @@
 - 100 - 2 **Great Bats**
 - 500 - **Shrieking Horror**
 - 500 - 3 **Winged Reapers**, Paired Weapons
+
+## Ralle
+
+### Vampire Covenant: 4497
+- 665 - **Vampire Count**, General (The Dead Arise), Strigoi Bloodline (Ghoul Lord), Wizard Adept, Shamanism, Paired Weapons (Shield Breaker)
+- 640 - **Necromancer**, Cadaver Wagon, Wizard Master, Alchemy, Crystal Ball
+- 440 - **Vampire Courtier**, Strigoi Bloodline (Bestial Bulk), Wizard (Wizard Apprentice, Shamanism), Battle Standard Bearer (Aether Icon, Aether Icon), Halberd
+- 359 - 24 **Ghouls**, Champion
+- 343 - 23 **Ghouls**, Champion
+- 198 - 6 **Bat Swarms**
+- 135 - 8 **Dire Wolves**, Champion
+- 135 - 20 **Zombies**, Musician
+- 522 - 7 **Ghasts**, Champion
+- 185 - 5 **Wraiths**
+- 185 - 5 **Wraiths**
+- 345 - **Varkolak**
+- 345 - **Varkolak**
+4497
