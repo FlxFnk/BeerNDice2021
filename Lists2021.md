@@ -137,7 +137,7 @@
 
 ### Vampire Covenant: 4497
 - 665 - **Vampire Count**, General (The Dead Arise), Strigoi Bloodline (Ghoul Lord), Wizard Adept, Shamanism, Paired Weapons (Shield Breaker)
-- 640 - **Necromancer**, Cadaver Wagon, Wizard Master, Alchemy, Crystal Ball
+- 640 - **Necromancer**, Cadaver Wagon, Wizard Master, Evocation, Crystal Ball
 - 440 - **Vampire Courtier**, Strigoi Bloodline (Bestial Bulk), Wizard (Wizard Apprentice, Shamanism), Battle Standard Bearer (Aether Icon, Aether Icon), Halberd
 - 359 - 24 **Ghouls**, Champion
 - 343 - 23 **Ghouls**, Champion
