@@ -150,3 +150,16 @@
 - 345 - **Varkolak**
 - 345 - **Varkolak**
 4497
+
+## Kemper
+
+### Daemon Legions: 4493
+- 965 - **Vanadra's Scourge**, Wizard (Wizard Adept, Evocation), Kaleidoscopic Flesh, Chitinous Scales, Centipede Legs, Brimstone Secretions
+- 815 - **Courtesan of Cibaresh**, General (Greater Dominion), Wizard Adept, Divination, Iron Husk, Chitinous Scales, Charged Tendrils, Mesmerising Plumage
+- 430 - 15 **Succubi**, Smothering Coils, Musician, Champion
+- 275 - 10 **Succubi**, Chilling Yawn, Standard Bearer, Musician
+- 420 - 15 **Myrmidons**, Bronze Backbone, Standard Bearer, Musician
+- 384 - 3 **Hoarders**, Mirrored Scales, Unnatural Roots, Standard Bearer, Musician, Champion
+- 383 - 3 **Brazen Beasts**, Incendiary Ichor, Standard Bearer, Musician, Champion
+- 211 - 6 **Hellhounds**, Incendiary Ichor, Champion
+- 610 - 6 **Bloat Flies**, Champion
